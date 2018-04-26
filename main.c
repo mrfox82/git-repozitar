@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-//thi is comment
+//this is comment
+/dasda
  
  int main() {
      printf("ahoj gite\n")
